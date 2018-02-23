@@ -1,6 +1,8 @@
 # hw3
 Опрос на Предателя Родины
 =========
+> ### Содержание
+> <a href=“#anchor”>о чем был мой опрос, сколько человек поучаствовало</a>
 ### Ссылки
   * [Доступ на редактирование](https://docs.google.com/forms/d/1bQELx6Ovqz8GCfg9ay8Y3Us1YZTAnhSySQWl6sFuUZc/edit?usp=sharing)
 
@@ -8,6 +10,7 @@
 
   * [Google Таблица](https://docs.google.com/spreadsheets/d/1yVbRjEi9DX0NUUZqzuc5oN2ZBArXac__GT9UDI-L5n0/edit#gid=1538516220)
 -----------
+<a id=“anchor”></a> 
 ## Об опросе
 
 В придверии выборов ~Владимира Владимировича Путина~ призедента РФ, я решила создать опрос и посмотреть взгляды и отношение молодежи к этим выборам.
@@ -33,4 +36,4 @@
 ![alt-2](https://pp.userapi.com/c841326/v841326392/70673/pxw6B_MBJiw.jpg)
 
 --------
-## Выводы
+## Вывод
